@@ -1,0 +1,6 @@
+# comment
+*.md
+_site
+Dockerfile
+_copy
+
